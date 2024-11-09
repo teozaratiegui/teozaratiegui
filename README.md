@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name Here] 👋
+# Hello, I'm Teo Zaratiegui 👋
 
 ## About Me
 🎓 I am currently finishing my degree as a Licenciate in Systems, where I've honed my skills in software development, system analysis, and problem-solving.
