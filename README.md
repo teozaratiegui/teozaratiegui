@@ -13,7 +13,7 @@
 - **Continuous Learning** - Committed to learning something new every day to improve my skills and understanding of various subjects.
 
 ## Connect with Me
-- **LinkedIn** - https://www.linkedin.com/in/teo-zaratiegui-02a1b4261/
+- **LinkedIn** - https://www.linkedin.com/in/teo-zaratiegui/
 - **GitHub** - https://github.com/teozaratiegui
 - **Email** - teozaratiegui@gmail.com
 
