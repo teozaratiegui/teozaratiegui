@@ -3,7 +3,7 @@
 ## About Me
 🎓 I am currently finishing my degree as a Licenciate in Systems, where I've honed my skills in software development, system analysis, and problem-solving.
 
-🏥 Professionally, I work at the Spanish Hospital of La Plata, contributing to the healthcare sector by integrating and improving technology solutions to enhance patient care and hospital operations.
+🏥 Over 2 years as a full-stack developer, building RESTful APIs & microservices (Spring Boot/Node.js), Angular/TypeScript UIs, and data models in PostgreSQL/MongoDB—shipping with Docker + CI/CD and a focus on performance, accessibility, and clean architecture.
 
 🌱 I have a deep passion for learning and personal growth. I am constantly exploring new technologies and methodologies to better understand and utilize them in both my personal and professional life.
 
